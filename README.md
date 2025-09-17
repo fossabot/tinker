@@ -3,6 +3,7 @@
 [![Release Version](https://img.shields.io/badge/release-1.9.15.1-red.svg)](https://github.com/Tencent/tinker/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tencent/tinker/pulls)
 [![WeChat Approved](https://img.shields.io/badge/Wechat_Approved-1.9.15.1-red.svg)](https://github.com/Tencent/tinker/wiki)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAttorneyTao%2Ftinker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAttorneyTao%2Ftinker?ref=badge_shield)
 
 [中文说明](https://github.com/Tencent/tinker/wiki)
 
@@ -130,3 +131,6 @@ For more information about contributing issues or pull requests, see our [Tinker
 
 ## License
 Tinker is under the BSD license. See the [LICENSE](https://github.com/Tencent/tinker/blob/master/LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAttorneyTao%2Ftinker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAttorneyTao%2Ftinker?ref=badge_large)
